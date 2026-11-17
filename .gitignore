@@ -1,0 +1,26 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Файлы с секретами (API-ключи)
+.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Отчёты покрытия и flake8
+.coverage
+htmlcov/
+
+# Идеи и настройки редакторов
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+# Кэш Python
+__pycache__/
+*.pyc
+.pytest_cache/
